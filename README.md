@@ -9,6 +9,6 @@ Google Colab: https://colab.research.google.com/drive/1wvSaishunwhQYq9LyH1MvrZjM
 Google Docs: https://docs.google.com/document/d/1dczpFpExlAj0OSGPUICrrIMOu_X2d-IBg2Vo7wy6X7A/edit?usp=sharing
 
 **Section 1, Week 2**
-Google Colab:
+Google Colab: https://colab.research.google.com/drive/1efBOLtZxu9LLpdIVehtH3k28iXsrkKcU?usp=sharing
 
-Google Docs:
+Google Docs: https://docs.google.com/document/d/1dczpFpExlAj0OSGPUICrrIMOu_X2d-IBg2Vo7wy6X7A/edit?usp=sharing
